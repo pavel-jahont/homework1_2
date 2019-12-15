@@ -4,6 +4,9 @@ target*
 .settings
 .project
 .classpath
+.iml
+.ipr
+.iws
 
 # Compiled class file
 *.class
